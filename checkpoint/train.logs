@@ -1,0 +1,16 @@
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] workers: 0
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] devices_id: 0
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] test_initial: False
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] base_lr: 0.0001
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] weight_decay: 1e-06
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] lr_patience: 40
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] start_epoch: 1
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] end_epoch: 500
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] snapshot: ./checkpoint/snapshot/
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] log_file: ./checkpoint/train.logs
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] tensorboard: ./checkpoint/tensorboard
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] resume: 
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] dataroot: ./data/train_data/list.txt
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] val_dataroot: ./data/test_data/list.txt
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] train_batchsize: 256
+[2021-08-13 17:26:09,710] [p21848] [C:/Users/shiroha/Desktop/PFLD-pytorch-master/PFLD-LAB/train.py:31] [INFO] val_batchsize: 256
