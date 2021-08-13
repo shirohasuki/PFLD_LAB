@@ -3,9 +3,9 @@ I'm reading the paper of PFLD and do some experiment on it.
 Based on PFLD offical codes(https://github.com/polarisZhao/PFLD-pytorch),I try to change some of the structure of the code to experiment.
 
 ### Changes based on offical codes
-In offical codes, PFLD just calls mtcnn as face detector. I add yolov5 and pyramidbox so that we can choose face detector from these three.
-Additionally, I'm testing to replace the backbone of PFLD.
-You can use your own yolo models to have a better effient. The models are placed in /FaceDetector/yolov5/weights/ .
+In offical codes, PFLD just calls mtcnn as face detector. I add yolov5 and pyramidbox so that we can choose face detector from these three.</br>
+Additionally, I'm testing to replace the backbone of PFLD.</br>
+You can use your own yolo models to have a better effient. The models are placed in `./FaceDetector/yolov5/weights/`</br>
 
 ### Setup
 #### 1. Install requirements
