@@ -1,6 +1,6 @@
 # PFLD_LAB
 I'm reading the paper of PFLD and do some experiment on it.
-Based on PFLD offical codes(https://github.com/polarisZhao/PFLD-pytorch),I try to change some of the structure of the code to experiment.
+Basing on PFLD offical codes(https://github.com/polarisZhao/PFLD-pytorch),I try to change some of the structure of the code to experiment.
 
 ### Changes based on offical codes
 In offical codes, PFLD just calls MTCNN as face detector. I add yolov5 and pyramidbox so that we can choose face detector from these three.</br>
